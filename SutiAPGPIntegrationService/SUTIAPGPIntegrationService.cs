@@ -2020,12 +2020,12 @@ namespace SutiAPGPIntegrationService
                         DataTable dtShipmentDetails = new DataTable();
 
 
-                            EventLogger.WriteToEventLog("Purchase Order Data Export Processing started :" + fileName, EventLogEntryType.Warning);
-                            if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
-                            {
-                                string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                                FileLogger.WriteToFileLog("Purchase Order Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
-                            }
+                            //EventLogger.WriteToEventLog("Purchase Order Data Export Processing started :" + fileName, EventLogEntryType.Warning);
+                            //if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                            //{
+                            //    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                            //    FileLogger.WriteToFileLog("Purchase Order Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
+                            //}
                             try
                             {
                                 string strSQLShipmentTableNames = SQLLibrary.SQLPURCHASEORDERTABLENAMES();
@@ -2034,18 +2034,24 @@ namespace SutiAPGPIntegrationService
 
                                 if (dtShipmentDetails.Rows.Count > 0)
                                 {
+                                    EventLogger.WriteToEventLog("Purchase Order Data Export Processing started :" + fileName, EventLogEntryType.Warning);
+                                    if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                                    {
+                                        string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                                        FileLogger.WriteToFileLog("Purchase Order Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
+                                    }
 
                                     ExportPurchaseOrderDataToCSV(dtShipmentDetails, drIntegrationSetup, fileName, gpCmpDBConnectionStr);
        
                                 }
                                 else
                                 {
-                                    EventLogger.WriteToEventLog("No Data found in the Purchase Order Export Table :" + fileName, EventLogEntryType.Warning);
-                                    if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
-                                    {
-                                        string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                                        FileLogger.WriteToFileLog("No Data found in the Purchase Order Export Table :" + fileName, filePath, EventLogEntryType.Warning);
-                                    }
+                                    //EventLogger.WriteToEventLog("No Data found in the Purchase Order Export Table :" + fileName, EventLogEntryType.Warning);
+                                    //if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                                    //{
+                                    //    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                                    //    FileLogger.WriteToFileLog("No Data found in the Purchase Order Export Table :" + fileName, filePath, EventLogEntryType.Warning);
+                                    //}
                                 }
                             }
                             catch (Exception ex)
@@ -2122,13 +2128,12 @@ namespace SutiAPGPIntegrationService
 
                         DataTable dtShipmentDetails = new DataTable();
 
-
-                        EventLogger.WriteToEventLog("Shipment Data Export Processing started :" + fileName, EventLogEntryType.Warning);
-                        if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
-                        {
-                            string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                            FileLogger.WriteToFileLog("Shipment Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
-                        }
+                        //EventLogger.WriteToEventLog("Shipment Data Export Processing started :" + fileName, EventLogEntryType.Warning);
+                        //if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                        //{
+                        //    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                        //    FileLogger.WriteToFileLog("Shipment Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
+                        //}
                         try
                         {
                             string strSQLShipmentTableNames = SQLLibrary.SQLSHIPMENTTABLENAMES();
@@ -2137,6 +2142,12 @@ namespace SutiAPGPIntegrationService
 
                             if (dtShipmentDetails.Rows.Count > 0)
                             {
+                                EventLogger.WriteToEventLog("Shipment Data Export Processing started :" + fileName, EventLogEntryType.Warning);
+                                if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                                {
+                                    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                                    FileLogger.WriteToFileLog("Shipment Data Export Processing started :" + fileName, filePath, EventLogEntryType.Warning);
+                                }
 
                                 ExportShipmentDataToCSV(dtShipmentDetails, drIntegrationSetup, fileName, gpCmpDBConnectionStr);
 
@@ -2156,12 +2167,12 @@ namespace SutiAPGPIntegrationService
                             }
                             else
                             {
-                                EventLogger.WriteToEventLog("No Data found in the Shipment Export Table :" + fileName, EventLogEntryType.Warning);
-                                if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
-                                {
-                                    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                                    FileLogger.WriteToFileLog("No Data found in the Shipment Export Table :" + fileName, filePath, EventLogEntryType.Warning);
-                                }
+                                //EventLogger.WriteToEventLog("No Data found in the Shipment Export Table :" + fileName, EventLogEntryType.Warning);
+                                //if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
+                                //{
+                                //    string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
+                                //    FileLogger.WriteToFileLog("No Data found in the Shipment Export Table :" + fileName, filePath, EventLogEntryType.Warning);
+                                //}
                             }
                         }
                         catch (Exception ex)
@@ -2302,6 +2313,7 @@ namespace SutiAPGPIntegrationService
                             string poNumber = dtSourceFileDataExportPO.Rows[0]["PONUMBER"].ToString().Trim().Replace("\"", "");
 
                             strFolderPath = fileName + @"\" + drIntegrationSetup["EXPORTPOPREFIX"].ToString().Trim() + "_" + poNumber + "_" + DateTime.Today.ToString("yyyyMMdd") + "_" + DateTime.Now.ToString("HHmmss") + '.' + drIntegrationSetup["EXPORTPOFILETYPE"].ToString().Trim();
+                            
                             using (StreamWriter writer = new StreamWriter(strFolderPath))
                             {
                                 // Write header
@@ -2458,6 +2470,8 @@ namespace SutiAPGPIntegrationService
                             string receptNumber = dtSourceFileDataExportShipment.Rows[0]["POPRCTNM"].ToString().Trim().Replace("\"", "");
 
                             strFolderPath = fileName + @"\" + drIntegrationSetup["EXPORTSHIPMENTPREFIX"].ToString().Trim() + "_" + receptNumber + "_" + DateTime.Today.ToString("yyyyMMdd") + "_" + DateTime.Now.ToString("HHmmss") + '.' + drIntegrationSetup["EXPORTSHIPMENTTYPE"].ToString().Trim();
+
+                           
                             using (StreamWriter writer = new StreamWriter(strFolderPath))
                             {
                                 // Write header
