@@ -1,0 +1,11 @@
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\x86\Debug\SUTIAPGPIntegrationService.exe.config
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\x86\Debug\SUTIAPGPIntegrationService.exe
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\x86\Debug\SUTIAPGPIntegrationService.pdb
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\x86\Debug\ChilkatDotNet45.dll
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe.config
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.pdb
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\x86\Debug\SUTIAPGPIntegrationService.ProjectInstaller.resources
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\x86\Debug\SutiAPGPIntegrationService.csproj.GenerateResource.Cache
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\x86\Debug\SUTIAPGPIntegrationService.exe
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\x86\Debug\SUTIAPGPIntegrationService.pdb

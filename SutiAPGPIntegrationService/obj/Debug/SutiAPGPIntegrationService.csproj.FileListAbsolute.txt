@@ -1,0 +1,46 @@
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe.config
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.pdb
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csprojResolveAssemblyReference.cache
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.ProjectInstaller.resources
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.GenerateResource.Cache
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.exe
+E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe.config
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.ProjectInstaller.resources
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.GenerateResource.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CoreCompileInputs.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CopyComplete
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Source Code\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csprojAssemblyReference.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe.config
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.ProjectInstaller.resources
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.GenerateResource.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CoreCompileInputs.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CopyComplete
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\GP2018\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csprojAssemblyReference.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe.config
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.pdb
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csprojAssemblyReference.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.ProjectInstaller.resources
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.GenerateResource.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CoreCompileInputs.cache
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SutiAPGPIntegrationService.csproj.CopyComplete
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.exe
+E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\obj\Debug\SUTIAPGPIntegrationService.pdb

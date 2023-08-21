@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <TimerSettings>
+    <Frequency>1</Frequency>
+    <RemoteCheckWait>3</RemoteCheckWait>
+    <ReconcilationFileCheck>07:45</ReconcilationFileCheck>
+  </TimerSettings>
+  <SMTPSettings>
+    <SMTPHost></SMTPHost>
+    <SMTPLogin></SMTPLogin>
+    <SMTPPort>22</SMTPPort>
+    <SMTPPassword></SMTPPassword>
+    <EmailFrom></EmailFrom>
+  </SMTPSettings>
+</Settings>

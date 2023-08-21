@@ -1,0 +1,9 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+
+installutil /u "E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe"
+
+InstallUtil.exe "E:\Work Area\Soma\Balaji\VS Code Upgrade\Edge Fitness\Source Code\SutiAPGPIntegrationService\bin\Debug\SUTIAPGPIntegrationService.exe"
+
+pause
+
+ 

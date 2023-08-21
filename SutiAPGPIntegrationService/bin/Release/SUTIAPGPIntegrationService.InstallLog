@@ -1,0 +1,32 @@
+﻿Uninstalling assembly 'E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.InstallLog
+   assemblypath = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe
+Removing EventLog source SUTIAPGPIntegrationService.
+Warning: The source SUTIAPGPIntegrationService is not registered on the local machine.
+Service SUTIAPGPIntegrationService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.InstallLog
+   assemblypath = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe
+Installing service SUTIAPGPIntegrationService...
+Service SUTIAPGPIntegrationService has been successfully installed.
+Creating EventLog source SUTIAPGPIntegrationService in log Application...
+Committing assembly 'E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.InstallLog
+   assemblypath = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe
+Uninstalling assembly 'E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.InstallLog
+   assemblypath = E:\BALAJI\D\Projects\Sutisoft\Source Code\Suti AP GP Integration Service\SutiAPGPIntegrationService\SutiAPGPIntegrationService\bin\Release\SUTIAPGPIntegrationService.exe
+Removing EventLog source SUTIAPGPIntegrationService.
+Service SUTIAPGPIntegrationService is being removed from the system...
+Service SUTIAPGPIntegrationService was successfully removed from the system.
