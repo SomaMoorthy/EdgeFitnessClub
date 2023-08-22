@@ -2372,9 +2372,8 @@ namespace SutiAPGPIntegrationService
                                 if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
                                 {
                                     string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                                    FileLogger.WriteToFileLog("Purchase Order Data Exported Successfully.", filePath, EventLogEntryType.Error);
+                                    FileLogger.WriteToFileLog("Purchase Order Data Exported Successfully." + strFolderPath, filePath, EventLogEntryType.Error);
                                 }
-
                             }
                             else
                             {
@@ -2530,7 +2529,7 @@ namespace SutiAPGPIntegrationService
                                 if (Convert.ToBoolean(drIntegrationSetup["ENABLETEXTEVENTLOG"].ToString().Trim()) == true)
                                 {
                                     string filePath = drIntegrationSetup["LOGFILEPATH"].ToString().Trim();
-                                    FileLogger.WriteToFileLog("Shipment Data Exported Successfully.", filePath, EventLogEntryType.Error);
+                                    FileLogger.WriteToFileLog("Shipment Data Exported Successfully." + strFolderPath, filePath, EventLogEntryType.Error);
                                 }
 
                             }
